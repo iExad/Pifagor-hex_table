@@ -1,4 +1,4 @@
-# Pifagox-hex_table
+# Pifagor-hex_table
 There is a code for build a beauty multiplication table
 
 =======================================================
